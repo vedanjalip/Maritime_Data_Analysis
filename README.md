@@ -1,2 +1,2 @@
 # Tutorial_Data_Analysis
-This is an instructive tutorial to handle datasets with a case study of marine engineering application. 
+This is an preliminary instructive tutorial to handle data with a case study of a marine engineering application. 
